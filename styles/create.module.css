@@ -1,0 +1,35 @@
+.form {
+    width:100%;
+    display:block;
+    margin-bottom:10px;
+}
+
+.form-group {
+    width:100%;
+    display:block;
+    margin-bottom:10px;
+}
+.form label{
+    display:block;
+    margin-bottom:10px;
+}
+
+.form input[type="text"]{
+    padding:10px;
+    width:100%;
+}
+
+.form textarea{
+    padding:10px;
+    width:100%;
+}
+
+.error{
+    color:red;
+    text-align:center;
+}
+
+.message{
+    color:green;
+    text-align:center;
+}
